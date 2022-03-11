@@ -14,7 +14,7 @@ variables:
   serviceConnection: 'DemoAzureLoadTesting'
   azureSubscriptionId: 'c60c9d13-6406-4632-ace1-dc137d720fe3'
   loadTestResource: 'Load_Testing_Instance'
-  loadTestResourceGroup: 'Azure_Load_Testing'
+  loadTestResourceGroup: 'AzureLoadTesting'
   location: 'EAST US'
 
 
